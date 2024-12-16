@@ -3,7 +3,7 @@ import { StockProvider } from "./StockContext";
 import StockForm from "./StockForm";
 import StockList from "./StockList";
 import "./App.css";
-import bullImage from "./assets/bull Sitting.jpg";
+import bullImage from "./assets/Bull Sitting.jpg";
 
 const App = () => {
   return (
